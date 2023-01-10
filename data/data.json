@@ -1,0 +1,84 @@
+{
+    "Quiz":[
+         {
+            "id":1,
+      "Question": "Which is the purpose of JavaScript?", 
+        "Answers1": "To style HTML Pages",
+        "Answers2": "To add interactivity to HTML pages",
+        "Answers3": "To perform server side scripting operations",
+      "Correct": "To add interactivity to HTML pages"
+    },
+    {
+        "id": 2,
+      "Question": "To insert a JavaScript into an HTML page, which tag is used?",
+        "Answers1": "<script='java'>",
+        "Answers2": "<javascript>",
+        "Answers3": "<script>",
+      "Correct": "<script>"
+    },
+    {
+        "id": 3,
+      "Question": "Which of the following is correct to write “Hello World” on the web page?",
+        "Answers1": "print('Hello World')",
+        "Answers2": "document.write('Hello World')",
+        "Answers3": "response.write('Hello World')",
+      "Correct": "document.write('Hello World')"
+    },
+    {
+      "id": 4,
+      "Question" : "What was the name of the security vulnerability found in Bash in 2014?",
+      "Answers1":"Heartbleed",
+      "Answers2":"Stagefright",
+      "Answers3" : "Shellshock",
+      "Correct":"Shellshock"
+    },
+    {
+      "id": 5,
+      "Question" :"When was the programming language &quot;C#&quot; released?" ,
+      "Answers1":"1998",
+      "Answers2":"2000",
+      "Answers3" : "1999",
+      "Correct":"2000"
+    },
+    {
+      "id": 6,
+      "Question" :"What did the name of the Tor Anonymity Network orignially stand for?" ,
+      "Answers1":"The Onion Router",
+      "Answers2":"The Only Router",
+      "Answers3" : "The Orange Router",
+      "Correct":"The Onion Router"
+    },
+    {
+      "id": 7,
+      "Question" : "In the server hosting industry IaaS stands for...?",
+      "Answers1":"Infrastructure as a Service",
+      "Answers2":"Infrastructure as a Server",
+      "Answers3" : "Internet and a Server",
+      "Correct":"Infrastructure as a Service"
+    },
+    {
+      "id": 8,
+      "Question" :"What is the main CPU is the Sega Mega Drive \/ Sega Genesis?" ,
+      "Answers1":"Motorola 68000",
+      "Answers2":"Zilog Z80",
+      "Answers3" : "Intel 8088",
+      "Correct":"Motorola 68000"
+    },
+    {
+      "id": 9,
+      "Question" : "What is the name given to layer 4 of the Open Systems Interconnection (ISO) model?",
+      "Answers1":"Data link",
+      "Answers2":"Transport",
+      "Answers3" : "Network",
+      "Correct":"Transport"
+    },
+    {
+      "id": 10,
+      "Question" :"In computing, what does LAN stand for?" ,
+      "Answers1":"Land Address Navigation",
+      "Answers2":"Local Area Network",
+      "Answers3" : "Light Access Node",
+      "Correct":"Local Area Network"
+    }
+]
+  }
